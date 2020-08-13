@@ -1,1 +1,2 @@
 master功能1
+master功能2
